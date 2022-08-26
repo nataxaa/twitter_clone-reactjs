@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Barber" title="#Twitter" src="src/github/twitter.jpg" width="150px" borderRadius="20px" />
+  <img alt="Barber" title="#Twitter" src="src/github/logo.png" width="150px" borderRadius="20px" />
 </h1>
 
 # Twitter
