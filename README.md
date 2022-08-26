@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Barber" title="#Twitter" src="src/github/logo.png" width="150px" borderRadius="20px" />
+  <img alt="Barber" title="#Twitter" src="src/github/logo.png" width="150px"/>
 </h1>
 
 # Twitter
@@ -10,15 +10,15 @@
   </a>
 
   <a href="#">
-    <img alt="Languages" src="https://img.shields.io/github/languages/count/nataxaa/BarberShop-reactjs?color=33A1F2&style=flat-square">
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/nataxaa/twitter_clone-reactjs?color=33A1F2&style=flat-square">
   </a>
 
   <a href="https://github.com/nataxaa/BarberShop/commits/master">
-    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/nataxaa/BarberShop-reactjs?color=33A1F2&style=flat-square">
+    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/nataxaa/twitter_clone-reactjs?color=33A1F2&style=flat-square">
   </a>
 
   <a href="#">
-    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/nataxaa/BarberShop-reactjs?color=33A1F2&style=flat-square">
+    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/nataxaa/twitter_clone-reactjs?color=33A1F2&style=flat-square">
   </a>
 
 </p>
@@ -27,15 +27,14 @@
 
 ## 💻 Projeto
 
-Projeto feito expirado em uma barbearia moderna. o design do projeto foi feito por mim, excelente projeto para praticar 
-conceitos importantes do react como, styled-components, context, importações, estados.
+Projeto realizado sobre a interface do twitter responsivo. Excelente para aprender e reforçar várias técnicas de CSS e React.  
 
 <br />
 
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="src/github/barbershop.gif" />
+    <img src="src/github/twitter.png" />
 </h1>
 
 ## 🚀 Tecnologias
